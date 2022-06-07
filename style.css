@@ -1,0 +1,13 @@
+#avatar {
+    border-radius: 60%;
+    height: 400px;
+}
+
+footer {
+    background-color: #B9FBC0;
+    height: 40px;
+}
+
+body {
+    font-family: 'Space Mono', monospace;
+}
