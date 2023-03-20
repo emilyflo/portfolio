@@ -1,8 +1,8 @@
-import resume from "../media";
+import resume from "../EmilyStarrresume.jpeg";
 
-export default function Resume () {
+export default function Resume() {
     return (
-        <div className="resume">
+        <div>
             <img src={resume} alt="my resume" />
         </div>
     )

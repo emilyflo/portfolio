@@ -10,7 +10,7 @@ export default function Nav() {
         <ButtonGroup gap='2'>
             <Link to="/resume">
                 <Button
-                colorScheme="green"
+                colorScheme='green'
                 to="/resume">resume</Button>
             </Link>
             <Link to="/portfolio">
